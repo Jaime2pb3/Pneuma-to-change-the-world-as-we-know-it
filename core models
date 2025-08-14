@@ -1,0 +1,10 @@
+# 🧠 Core Models
+
+This folder contains Pneuma's central frequency-based and resonance-driven AI architectures.
+
+### Contents
+- **AMOR:** A frequency-aware model for Alzheimer's memory reconstruction.
+- **NeuroCIES:** Encoder and decoder pipelines for symbolic resonance.
+- **Pneuma AMPF:** Clinical model prototype for mind-field interaction.
+
+These are production-grade notebooks or near-ready prototypes.
